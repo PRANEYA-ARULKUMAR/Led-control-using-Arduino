@@ -1,6 +1,6 @@
-Name: A Praneya
+# Name: A Praneya
 
-Reg No: 24900343
+# Reg No: 24900343
 
 #  EXPERIMENT 1 Led-control-using-Arduino
 
