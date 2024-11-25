@@ -1,4 +1,8 @@
-# Led-control-using-Arduino
+Name: A Praneya
+
+Reg No: 24900343
+
+#  EXPERIMENT 1 Led-control-using-Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
@@ -59,8 +63,33 @@ Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
 
+
+![iotexp13](https://github.com/user-attachments/assets/c9b5ed9b-5e0c-43ab-b1d8-a8be774a7372)
+
+
 ## PROGRAM
+
+
+![iotexp12](https://github.com/user-attachments/assets/80e21ee1-5845-4f93-8c38-c95228358bbb)
+
 
 ## OUTPUT
 
+
+LED OFF
+
+![iotexp11](https://github.com/user-attachments/assets/14d6e42e-a402-4401-b5e1-fa659d878458)
+
+
+LED ON
+
+
+![iotexp1](https://github.com/user-attachments/assets/919c67c0-146c-4907-b0bc-2365387c211e)
+
+
+
+
 ## RESULT
+
+
+Designed and implemented a system for LED control using an arduino microcontroller and a push button successfully.
